@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pyxel edit res/pyxel_resource.pyxres
+

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pyxel app2html MakeChanger.pyxapp
+
+git commit -a -m "$1"
